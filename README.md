@@ -13,3 +13,5 @@ Il font **Andiamo a bruciargli la casa** è basato su scansioni di disegni di [A
 Sono presenti varianti per le lettere _E M T V W X Y Z j_, accessibili tramite caratteristica '**ss01**'.
 
 ![image](andiamo_2.jpg)
+
+L'immagine di Lapo di Castiglionchio è resa disponibile da [Rijksmuseum](http://hdl.handle.net/10934/RM0001.COLLECT.186842).
